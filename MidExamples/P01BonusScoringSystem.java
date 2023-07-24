@@ -21,8 +21,5 @@ public class P01BonusScoringSystem {
 
         }
         System.out.println();
-
-
-
     }
 }
